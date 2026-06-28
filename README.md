@@ -1,5 +1,14 @@
 <div align="center">
 
+<img
+src="assets/ek din aap yo humko mil jyenge.jpg"
+alt="Banner"
+width="100%"
+style="border-radius:20px;"/>
+
+</div>
+<div align="center">
+
 # 🌸 Hi, I'm Gopika B
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=AI+Software+Engineer;Building+Agentic+AI+%26+RAG+Systems;Researcher+%7C+Full-Stack+Developer;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
