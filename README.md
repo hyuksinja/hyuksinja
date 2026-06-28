@@ -171,4 +171,88 @@ Achievements
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,docker,git,github,linux,aws" />
 </p>
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+🥇 **International Research Publications**
+📚 Published research in Springer & IEEE conference proceedings
+
+🤖 **AI Software Engineering**
+Building Agentic AI, RAG pipelines, and intelligent full-stack applications
+
+🚀 **Open Source & Personal Projects**
+Developing AI-powered applications focused on solving real-world problems
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌟 Featured Projects
+
+| Project                             | Description                                                                                                                         | Tech                                        |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| 🚆 **CommuteAI Copilot**            | AI-powered commute prediction with RAG, traffic intelligence, weather integration, airport alerts, and explainable recommendations. | FastAPI · React · PostgreSQL · Docker · RAG |
+| 📚 **Story Spark AI**               | Personalized AI storytelling platform with authentication, analytics, and immersive reading experiences.                            | React · Node.js · MongoDB · AI              |
+| 🔬 **Offensive Language Detection** | NLP research for low-resource languages using transformer models and machine learning.                                              | Python · NLP · Transformers                 |
+
+---
+
+# 🌱 Currently Learning
+
+```text
+🧠 Agentic AI
+🔄 Multi-Agent Systems
+☁️ Cloud Architecture
+⚡ Distributed Systems
+📦 Kubernetes
+🏗️ System Design
+```
+
+---
+
+# 💡 Random Dev Quote
+
+> *"The best AI systems don't just answer questions—they help people make better decisions."*
+
 
