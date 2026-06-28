@@ -255,4 +255,94 @@ Developing AI-powered applications focused on solving real-world problems
 
 > *"The best AI systems don't just answer questions—they help people make better decisions."*
 
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🎭 Beyond the Code
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💃
+
+Classical Dance
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎸
+
+Playing Guitar
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎭
+
+Acting
+
+</td>
+
+<td align="center" width="25%">
+
+### 📷
+
+Photography
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💖 Thanks for Visiting!
+
+<div align="center">
+
+### ⭐ If you like my work, consider starring a repository!
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=2500&color=F472B6&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!;Always+building%2C+always+learning.;Let's+create+something+amazing+together+✨" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building technology that solves real problems and creates meaningful experiences."*
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F472B6&height=120&section=footer"/>
+
+</div>
+
+
 
